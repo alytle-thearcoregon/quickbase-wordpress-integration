@@ -22,11 +22,17 @@ This setup is designed to be **modular**, **extensible**, and easy for others to
 ## Project Structure
 
 ├── php/
+
 │ └── quickbase-events-integration.php # Custom PHP integration functions & shortcodes
+
 ├── css/
+
 │ └── quickbase-events.css # Styling for Event listings & detail pages
+
 ├── docs/
+
 │ └── integration-overview.md # Written explanation of the full workflow
+
 └── README.md
 
 
